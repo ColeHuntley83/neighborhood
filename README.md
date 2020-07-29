@@ -1,23 +1,8 @@
-# Project Name
+# Neighborhood Property Listing's
 
-> Project description
+> Node.js app that rpovides simple API endpoints to auerry for property informtion
 
-## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
