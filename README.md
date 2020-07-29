@@ -1,6 +1,6 @@
 # Neighborhood Property Listing's
 
-> Node.js app that rpovides simple API endpoints to auerry for property informtion
+> Node.js app that provides simple API endpoints to querry for property information
 
 
 
